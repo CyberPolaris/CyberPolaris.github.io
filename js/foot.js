@@ -2,11 +2,9 @@
 $(document).ready(function(e){
     $('.copyright').html('©2022 <i class="fa-fw fas fa-heartbeat card-announcement-animation cc_pointer"></i> By CyberPolaris');
 })
-​
 $(document).ready(function(e){
     show_date_time();
 })
-​
 //本站运行时间，更改自己建立站点的时间
 function show_date_time(){
 $('.framework-info').html('本站已经安全运行<span id="span_dt_dt" style="color: #fff;"></span>');
