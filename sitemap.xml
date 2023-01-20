@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/%E7%AC%AC%E4%B8%80%E7%AF%87MarkDown%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://cyberpolaris.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87MarkDown%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2023-01-20</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/Hello%20World/</loc>
+    <loc>https://cyberpolaris.github.io/posts/Hello%20World/</loc>
     
     <lastmod>2023-01-20</lastmod>
     
@@ -21,7 +21,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://cyberpolaris.github.io/</loc>
     <lastmod>2023-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

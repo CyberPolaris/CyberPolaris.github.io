@@ -3,11 +3,11 @@
   <title>CyberPolaris的个人博客</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://cyberpolaris.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://cyberpolaris.github.io/"/>
   <updated>2023-01-20T10:10:04.690Z</updated>
-  <id>http://example.com/</id>
+  <id>https://cyberpolaris.github.io/</id>
   
   <author>
     <name>CyberPolaris</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>第一篇MarkDown格式的博客</title>
-    <link href="http://example.com/posts/%E7%AC%AC%E4%B8%80%E7%AF%87MarkDown%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/posts/%E7%AC%AC%E4%B8%80%E7%AF%87MarkDown%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://cyberpolaris.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87MarkDown%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://cyberpolaris.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87MarkDown%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
     <published>2023-01-17T06:20:56.000Z</published>
     <updated>2023-01-20T10:10:04.690Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/Hello%20World/"/>
-    <id>http://example.com/posts/Hello%20World/</id>
+    <link href="https://cyberpolaris.github.io/posts/Hello%20World/"/>
+    <id>https://cyberpolaris.github.io/posts/Hello%20World/</id>
     <published>2023-01-17T06:19:25.740Z</published>
     <updated>2023-01-20T10:09:44.414Z</updated>
     
